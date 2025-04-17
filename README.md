@@ -1,10 +1,9 @@
 
 ---
 
-## ✅ `README.md` pentru **frontend (React + Vite)**
+## Tic Tac Toe – Frontend (React + Vite)**
 
 ```markdown
-# Tic Tac Toe – Frontend (React)
 
 This is the frontend of the Tic Tac Toe game built using React and Vite.
 
