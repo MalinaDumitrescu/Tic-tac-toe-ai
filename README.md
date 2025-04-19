@@ -22,7 +22,7 @@ cd tictactoe-frontend
 npm install
 npm run dev
 
-![Screenshot 2025-04-19 144637](https://github.com/user-attachments/assets/a353a26e-e6f6-4fb7-a50c-511cde516bdf)
+
 
 
 https://github.com/user-attachments/assets/847e3c41-76e9-4a29-b818-84e425e7cef1
