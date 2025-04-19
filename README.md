@@ -23,5 +23,6 @@ npm install
 npm run dev
 
 
+![Screenshot 2025-04-19 144637](https://github.com/user-attachments/assets/08c8f895-73b8-4029-abab-7b74e9b1e980)
 
-![Screenshot 2025-04-19 144425](https://github.com/user-attachments/assets/4462c7d4-7889-4590-959c-3b1298be73f3)
+
