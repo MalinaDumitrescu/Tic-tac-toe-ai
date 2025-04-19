@@ -21,11 +21,3 @@ git clone https://github.com/your-username/tictactoe-frontend.git
 cd tictactoe-frontend
 npm install
 npm run dev
-
-
-
-
-https://github.com/user-attachments/assets/847e3c41-76e9-4a29-b818-84e425e7cef1
-
-
-
