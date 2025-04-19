@@ -21,3 +21,6 @@ git clone https://github.com/your-username/tictactoe-frontend.git
 cd tictactoe-frontend
 npm install
 npm run dev
+
+![Descriere imagine](assets/imagine1.png)
+![Descriere imagine](assets/imagine1.png)
