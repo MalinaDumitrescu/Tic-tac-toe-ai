@@ -18,7 +18,10 @@ This is the frontend of the Tic Tac Toe game built using React and Vite.
 
 ```bash
 git clone https://github.com/your-username/tictactoe-frontend.git
-cd tictactoe-frontend![Screenshot 2025-04-19 144425](https://github.com/user-attachments/assets/4462c7d4-7889-4590-959c-3b1298be73f3)
-
+cd tictactoe-frontend
 npm install
 npm run dev
+
+
+
+![Screenshot 2025-04-19 144425](https://github.com/user-attachments/assets/4462c7d4-7889-4590-959c-3b1298be73f3)
