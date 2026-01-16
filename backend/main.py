@@ -1,4 +1,3 @@
-# backend/main.py
 from game_logic import check_winner, get_ai_move
 
 def print_board(board):
@@ -31,7 +30,6 @@ def main():
             print(f"Rezultat: {winner}")
             break
 
-        # Mutarea AI-ului
         ai_move = get_ai_move(board)
         board[ai_move] = "O"
         print(f"\nAI-ul a ales poziția {ai_move}:")
@@ -44,3 +42,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
