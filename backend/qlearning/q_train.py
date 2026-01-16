@@ -3,8 +3,8 @@ import pickle
 import numpy as np
 
 Q = {}  # Q-table
-alpha = 0.3    # learning rate
-gamma = 0.9    # discount factor
+alpha = 0.3  # learning rate
+gamma = 0.9  # discount factor
 epsilon = 0.1  # exploration rate
 EPISODES = 100_000
 
@@ -56,7 +56,6 @@ def train():
             state = next_state
             player = "O" if player == "X" else "X"
 
-        # Assign rewards
         for state, action, player in reversed(game_history):
             if winner == "Draw":
                 reward = 0.5
@@ -73,3 +72,4 @@ def train():
 
 if __name__ == "__main__":
     train()
+
