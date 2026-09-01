@@ -1,10 +1,10 @@
-# 🎮 Tic Tac Toe – Frontend (React + Vite)
+# Tic Tac Toe – Frontend (React + Vite)
 
 This is the frontend of the Tic Tac Toe game built using **React** and **Vite**, featuring a smart AI opponent powered by a **Q-Learning** model.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Interactive 3x3 board**
 - **Play against a Q-Learning AI opponent**
@@ -15,7 +15,7 @@ This is the frontend of the Tic Tac Toe game built using **React** and **Vite**,
 
 ## !!!You can also check the assets folder in this repository to see a screenshot of the game interface and a demo video showing how the game works!!!
 
-## 🛠️ Setup
+##  Setup
 
 Clone the repository and run locally:
 
